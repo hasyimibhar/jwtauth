@@ -1,6 +1,6 @@
 [[constraint]]
   name = "github.com/dgrijalva/jwt-go"
-  version = "^3.0.0"
+  revision = "a539ee1a749a2b895533f979515ac7e6e0f5b650"
 [[constraint]]
   name = "github.com/go-chi/chi"
   version = "^3.0.0"
